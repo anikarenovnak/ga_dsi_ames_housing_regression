@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) # Ames Housing Dataset: Predicting Housing Prices
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Ames Housing Dataset: Predicting House Prices
 
 This project was hosted as a Kaggle competition. The project is focued on advanced regression techniques applied on a dataset with a large number of features. 
 
