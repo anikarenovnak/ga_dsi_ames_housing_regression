@@ -9,8 +9,8 @@ The dataset is sourced from the Ames Assessor's Offoice and contains 82 features
 
 The repository contains 4 jupyter notebooks, a folder for images and a folder for the data. The 4 notebooks are: 
 
-1: Problem Statement, Data Cleaning and Transformation
-2: Data Visualization and Exploratory Analyses 
-3: Model Building and Hyperparameter Tuning
-4: MOdel Selection and Conclusion
+1. Problem Statement, Data Cleaning and Transformation
+2. Data Visualization and Exploratory Analyses 
+3. Model Building and Hyperparameter Tuning
+4. MOdel Selection and Conclusion
 
